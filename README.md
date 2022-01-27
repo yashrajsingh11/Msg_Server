@@ -7,6 +7,11 @@ A Flutter Mobile Application with a backend Flask server that automatically scan
 3) The message is displayed in RED if it is a possible phishing link, else it is displayed in GREEN.
 4) Users have the option to give feedback for the predicted output, in case it was wrong. 
 5) They can report it to the concerned authority as well. 
+## Sample Screenshots
+![Alt text](Images/1.png?raw=true "Result1")
+![Alt text](Images/2.png?raw=true "Result2")
+![Alt text](Images/3.png?raw=true "Result3")
+![Alt text](Images/4.png?raw=true "Result4")
 ## Github Links:
 1) Flutter Frontend: https://github.com/yashrajsingh11/Msg_App
 2) Flask Backend Server: https://github.com/yashrajsingh11/Msg_Server
